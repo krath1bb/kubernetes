@@ -58,7 +58,7 @@ allnomaster1=($master2 $master3 $worker1 $worker2)
 lbrange=10.2.8.50-10.2.8.99
 
 #ssh certificate name variable
-certName=id_rsa
+certName=bkrathwohl_ed25519
 
 #ssh config file
 config_file=~/.ssh/config
