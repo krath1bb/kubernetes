@@ -1,0 +1,11 @@
+# download rke script
+curl -sfL https://get.rke2.io | sh -
+
+
+
+
+
+
+
+
+# longhorn rke2 script
